@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="107px" viewBox="0 0 200 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="79.1480499%" y1="35.6605872%" x2="-5.19648244%" y2="75.648561%" id="linearGradient-1">
+            <stop stop-color="#05E0D6" offset="0%"></stop>
+            <stop stop-color="#DDFFFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M190.164687,40.820685 C179.436846,37.436791 166.364815,31.9966889 150.948594,24.5003786 C101.638859,0.522966549 70.1494209,-5.8953363 45.7591019,5.42215583 C21.3687829,16.739648 44.1055535,20.6171325 49.9150586,32.5117342 C55.7245638,44.4063358 62.1860778,70.0987522 24.5913778,78.9397628 C-13.0033223,87.7807733 -2.19764273,110.471452 21.7807296,105.884344 C45.7591019,101.297235 73.5880718,93.5240213 99.1086037,65.1390673 C108.676929,54.4967937 126.325858,56.863826 152.055389,72.2401641 C160.034098,77.0083555 173.161717,83.6338218 191.438244,92.116563 C203.735667,97.8242037 202.312621,44.6525204 190.164687,40.820685 Z" id="Path-2" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

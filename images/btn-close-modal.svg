@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="67px" viewBox="0 0 110 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>web/btn-close-modal</title>
+    <g id="web/btn-close-modal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn-close-modal">
+            <path d="M0,0 C3.36425731,29.7210286 36.9731879,22.2411996 52.3814864,29.0600717 C67.7897849,35.8789437 66.2534407,53.2731261 80.1141809,61.601183 C93.974921,69.9292399 110,66.1397537 110,66.1397537 C110,66.1397537 110,44.0931691 110,0 L0,0 Z" id="bg-close" fill="#00CCCB"></path>
+            <text id="x" font-family="Roboto-Light, Roboto" font-size="30" font-weight="300" fill="#FFFFFF">
+                <tspan x="82.8398487" y="38.1222245">x</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

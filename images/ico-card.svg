@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="236px" viewBox="0 0 328 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico-card</title>
+    <g id="registro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web/metodos-pago-no" transform="translate(-374.000000, -269.000000)">
+            <g id="body" transform="translate(285.000000, 130.000000)">
+                <g id="ico-card" transform="translate(90.000000, 140.000000)">
+                    <g id="Rectangle-2" transform="translate(53.000000, 40.000000)" fill="#E4E4E4">
+                        <rect id="Rectangle" x="0" y="0" width="237" height="150"></rect>
+                    </g>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="74" y="109" width="53" height="14"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="144" y="109" width="56" height="14"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="223" y="109" width="53" height="14"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#FFFFFF" x="74" y="65" width="53" height="14"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="226" cy="161" r="15"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="249" cy="161" r="15"></circle>
+                    <polygon id="Star" stroke="#DCDCDC" points="310.5 46.75 303.152684 50.6127124 304.555897 42.4313562 298.611794 36.6372876 306.826342 35.4436438 310.5 28 314.173658 35.4436438 322.388206 36.6372876 316.444103 42.4313562 317.847316 50.6127124"></polygon>
+                    <polygon id="Star" stroke="#DCDCDC" points="12.5 139.75 5.15268435 143.612712 6.55589677 135.431356 0.611793546 129.637288 8.82634217 128.443644 12.5 121 16.1736578 128.443644 24.3882065 129.637288 18.4441032 135.431356 19.8473157 143.612712"></polygon>
+                    <polygon id="Star-Copy" stroke="#DCDCDC" transform="translate(62.276459, 13.989851) rotate(30.000000) translate(-62.276459, -13.989851) " points="62.2820858 20.3562551 56.3104457 23.6570783 57.4467854 16.6583294 52.610664 11.6981163 59.2888995 10.6812515 62.2716522 4.31484798 65.2626891 10.6851399 71.9422531 11.7106993 67.1125799 16.6646209 68.2580248 23.664855"></polygon>
+                    <polygon id="Star-Copy" stroke="#DCDCDC" transform="translate(116.735918, 219.839476) rotate(30.000000) translate(-116.735918, -219.839476) " points="116.741545 226.205879 110.769905 229.506702 111.906245 222.507953 107.070123 217.54774 113.748359 216.530876 116.731112 210.164472 119.722149 216.534764 126.401713 217.560323 121.572039 222.514245 122.717484 229.514479"></polygon>
+                    <polygon id="Star-Copy" stroke="#DCDCDC" transform="translate(183.465696, 25.152091) rotate(-27.000000) translate(-183.465696, -25.152091) " points="183.461873 29.7826008 179.116125 32.1888276 179.948903 27.0974482 176.436491 23.4942078 181.294004 22.7485056 183.468962 18.1153537 185.638291 22.7458639 190.494901 23.4856589 186.978108 27.0931738 187.8047 32.1835441"></polygon>
+                    <polygon id="Star-Copy" stroke="#DCDCDC" transform="translate(202.790021, 208.129534) rotate(-27.000000) translate(-202.790021, -208.129534) " points="202.786198 212.760044 198.44045 215.166271 199.273228 210.074892 195.760816 206.471651 200.618328 205.725949 202.793286 201.092797 204.962616 205.723307 209.819226 206.463103 206.302433 210.070617 207.129025 215.160988"></polygon>
+                    <polygon id="Star-Copy" stroke="#DCDCDC" transform="translate(311.740371, 191.689119) rotate(-29.000000) translate(-311.740371, -191.689119) " points="311.734861 198.055706 305.759101 201.364299 306.904426 194.363923 302.074794 189.409825 308.754194 188.384333 311.745078 182.013938 314.727849 188.380525 321.405949 189.397503 316.570003 194.357762 317.706411 201.356684"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
