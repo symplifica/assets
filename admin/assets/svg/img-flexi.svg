@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80808E;}
+	.st1{font-family:'Roboto-Regular';}
+	.st2{font-size:9.6072px;}
+	.st3{fill:none;stroke:#80808E;stroke-width:0.75;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 42.8784 19.2288)" class="st0 st1 st2">1</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 72.7592 33.4993)" class="st0 st1 st2">2</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 76.8969 62.0413)" class="st0 st1 st2">3</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 58.4507 86.386)" class="st0 st1 st2">4</text>
+	</g>
+	<g>
+		<circle class="st3" cx="45.7" cy="51.62" r="19.69"/>
+	</g>
+	<g>
+		<line class="st3" x1="45.59" y1="23.17" x2="45.59" y2="29.05"/>
+		<line class="st3" x1="67.91" y1="33.93" x2="63.32" y2="37.59"/>
+		<line class="st3" x1="73.39" y1="58.15" x2="67.67" y2="56.82"/>
+		<line class="st3" x1="58.03" y1="77.4" x2="55.47" y2="72.11"/>
+		<line class="st3" x1="32.79" y1="77.22" x2="35.43" y2="71.97"/>
+		<line class="st3" x1="17.71" y1="57.83" x2="23.45" y2="56.57"/>
+		<line class="st3" x1="23.41" y1="33.75" x2="27.97" y2="37.45"/>
+	</g>
+</g>
+</svg>
